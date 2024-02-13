@@ -18,3 +18,4 @@ Ability to generate passwords with varying lengths and character types.
 This application is built using HTML, CSS, and JavaScript. Feel free to explore the code to understand how the password generation process works.
 
 
+<img width="1709" alt="Screenshot 2024-02-12 at 10 16 26 PM" src="https://github.com/SumailaM/Passwword-Generator/assets/142268062/86ba5a15-5cc3-4bf4-97e1-51a509a8cf52">
