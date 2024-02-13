@@ -18,6 +18,3 @@ Ability to generate passwords with varying lengths and character types.
 This application is built using HTML, CSS, and JavaScript. Feel free to explore the code to understand how the password generation process works.
 
 
-
-### License
-This project is licensed under the MIT License.
